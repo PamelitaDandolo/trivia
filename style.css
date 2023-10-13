@@ -1,0 +1,14 @@
+html {
+    height: 100%; /*altura */
+    width: 100%; /*largura */
+  }
+  
+  
+  body{
+    font-family:Helvetica;
+    text-align: left;
+    color: #fff;
+    background-color: #B8860B; /* golden*/
+    padding: 50px;
+    margin: 50px;
+  }
